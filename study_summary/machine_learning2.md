@@ -29,7 +29,7 @@
 
 为了寻找总损失函数的最小值，我们寻找其对theta导数为零的点，于是，算法学到的模型对训练数据的预测为：
 
-![输入图片说明](./image/98fd761e-deca-424e-a81a-7ecedd0aa1e1.png)
+![输入图片说明](./image/aa0983ad-828d-45dd-b644-91c8fac122a1.png)
 
 
 ##  Practice_1
